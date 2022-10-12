@@ -1,4 +1,4 @@
-const basePath = '/minimaldigipub2022-template'
+const basePath = '/Busa-s-Enthusiasts'
 
 module.exports = {
   pathPrefix: basePath,
