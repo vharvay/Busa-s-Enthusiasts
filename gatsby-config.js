@@ -4,7 +4,7 @@ module.exports = {
   pathPrefix: basePath,
   siteMetadata: {
     title: `Digital Publishing with Minimal Computing Project`,
-    description: `DPMCP`,
+    description: `DPWMCP`,
     author: `Busa-s Enthusiasts`
   },
   plugins: [
