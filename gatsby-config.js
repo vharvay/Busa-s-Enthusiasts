@@ -4,8 +4,8 @@ module.exports = {
   pathPrefix: basePath,
   siteMetadata: {
     title: `Digital Publishing with Minimal Computing Project`,
-    description: `A template`,
-    author: `Course teachers`
+    description: `DPMCP`,
+    author: `Busa-s Enthusiasts`
   },
   plugins: [
     `gatsby-plugin-material-ui`,
