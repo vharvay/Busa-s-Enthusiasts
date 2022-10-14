@@ -3,3 +3,9 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
  }
+
+ p { 
+    color: darkgray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+ }
