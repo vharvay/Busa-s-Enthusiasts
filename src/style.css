@@ -19,10 +19,10 @@ h1 {
      /*  The second defines divs to the left */
      .left {
          float: left;
-         width: 70%;
+         width: 60%;
      }
      /* And the third to the right */
      .right {
          float: right;
-         width: 70%;
+         width: 60%;
      }
