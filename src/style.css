@@ -9,3 +9,19 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
  }
+
+ /* In this lines I am defining 3 class of <div> element */
+      /* The first 'multiling' is the container for the two columns */
+      .multiling {
+         overflow: hidden;
+     }
+     /*  The second defines divs to the left */
+     .left {
+         float: left;
+         width: 40%;
+     }
+     /* And the third to the right */
+     .right {
+         float: right;
+         width: 40%;
+     }
