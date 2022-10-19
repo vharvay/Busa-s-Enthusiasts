@@ -16,15 +16,15 @@ h1 {
       /* The first 'multiling' is the container for the two columns */
       .multiling {
          overflow: hidden;
-         width: 130%;
+         width:20cm;
          text-align: center;
+         
          
      }
      /*  The second defines divs to the left */
      .left {
          float: left;
          width: 45%;
-         margin-right: 2%;
          ;
      }
      /* And the third to the right */
