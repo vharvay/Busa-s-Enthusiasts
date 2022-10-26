@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="../../../static/tei_simplePrint.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0"  >
+
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of a Voyage up the River de la Plata, and thence over land to Peru</title>
+            <author>Mons. Acarete du Bifcay</author>
+            <editor>Helados Group</editor>
+
+         </titleStmt>
+         <publicationStmt>
+            <p>
+            <ref target="https://www.loc.gov/resource/rbc0001.2019gen17198/?sp=6&r=-0.742,0.387,2.483,0.918,0">
+      
+            </ref>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+         <bibl>
+         <pubPlace>London</pubPlace>
+         <publisher> Printed for S. Bucklet </publisher>
+         <date> 1698 </date>
+         <add> With Observations on the Inhabitants, as well Indians and Spainards, the Cities, Commerce, Fertility, and Riches of that Part of America. </add>   
+         </bibl>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+          <head>A Description of the City of Potosi, and the Mines there</head>
+
+         <figure xml:id="englishpage"> <graphic url="acarete.eng.42.jpg"/> </figure> 
+         <div type="chapter" xml:lang="en">
+            
+         <pb n="42"/>
+         
+
+         <fw type="head">42 A Voyage to Peru</fw>
+              <p xml:id="textindent"> 
+                 <lb/><c>I</c> was no sooner alighted from my <lb/>Horse, at a Merchants House to <lb/>whom I had been recommended, but I <lb/>was conducted by him to the, <name type="personRoleName" >President</name> <lb/>of the Provinces of <name type="place">Los Charcas</name>, to <lb/>whom the Order I carried from the King <lb/>of <name type="country">Spain</name> was directed, as the Principal <lb/>Director of his <choice><sic>Catholick</sic><corr>Catholic</corr></choice> Majesty's Af<lb/>fairs in this Province, in which <name type="place">Potosi</name> is <lb/>Situate, which is the place of his Ordi<lb/>nary Residence, <choice><orig>altho'</orig> <reg>although</reg></choice> the <name type="place">City de la <lb/>Plata</name> is the Capital. After I had <choice><orig>deli<lb/>ver'd</orig> <reg>delivered</reg></choice> the Order to him, I was brought <lb/>to the <name type="personRoleName">Corregidor</name>, to deliver that which  <choice><orig><lb/>belong'd</orig> <reg>belonged</reg></choice> to him, and afterwards to thofe <lb/>other Officers for whom I brought Or<lb/>ders; they all <choice><orig>receiv'd</orig> <reg>received</reg></choice> me very well, <lb/>particularly the <name type="personRoleName">President</name>, who present<lb/>ed me with a Chain of Gold for the <lb/>good News I had brought <choice><sic>himn</sic> <corr>him</corr></choice>.</p> 
+              <p xml:id="bottom">
+                 <lb/>But before we go any farther <choice><orig>'tis</orig> <reg>this</reg></choice> con<lb/>venient I should give some description <lb/>of the City of <name type="place">Potosi</name>, as I have done of </p>
+                 
+         <fw type="catch">others.</fw> 
+
+
+         <pb n="43"/>
+         <fw type="head">up the R. de la Plata 43</fw>
+              <p xml:id="bottomline"> 
+                 <lb/>others. The <rs>Spaniards</rs> call it the <name type="place">Impe<lb/>rial City</name>, but no body could ever tell <lb/>me for what reason; <choice><orig>'tis</orig> <reg>this</reg></choice> Situate at the <lb/>Foot of a Mountain,  <choice><orig>call'd</orig> <reg>called</reg></choice> <name type="placeGeog">Arazassou</name>, <lb/>and divided: in the midst by a River, <lb/>which comes from a Lake <choice><orig>inclos'd</orig> <reg>inclosed</reg></choice> with <lb/>Walls, which lies about a quarter a <lb/>League above the City, and is a kind of <lb/>reserver to hold the Water that is neces<lb/>sary for the Work-houses of that part <lb/>of the City, which is on this side ot the <lb/>River, over against the Mountain, is <lb/><choice><orig>rais'd</orig> <reg>raised</reg> </choice> upon a little Hill, and is the larg<lb/>est and most inhabited part; for on <lb/>that which is on the side of the Moun<lb/>tain, there's scarce any thing but Engines <lb/>and the Houses of those that Work in <lb/>'em. The City has neither Walls, Ditch<lb/>es, nor Forts for its defence, there are <lb/>reckon'd to be 4000 Houses well built <lb/>of good Stone, with several Floors, af<lb/>ter the manner of the Buildings in <name type="country">Spain</name>. <lb/>The Churches are well made, and all <lb/>richly <choice><orig>adorn'd</orig> <reg>adorned</reg></choice> with Plate, Tapestry, <lb/>and other Ornaments, and above all <lb/>those of the Monks and Nunns, of <lb/>whom there are several Convents of <lb/>different Orders, which are very well <lb/><choice><orig>furnish'd</orig> <reg>furnished</reg></choice>. This is not the least populous <lb/>City of <name type="place">Peru</name>, with <rs>Spaniards</rs>, <rs>Mestices</rs>,</p> 
+                 
+         <fw type="catch">Stran-</fw> 
+
+
+         <pb n="44"/>
+         <fw type="head">44 A Voyage to Peru</fw>
+             <p xml:id="bottomline"> 
+                <rs><lb/>Strangers</rs>, and <rs>Natives</rs> (which last the <rs><lb/>Spaniards</rs> call <foreign>Indios</foreign>) with <rs>Moulatos</rs> and <rs><lb/>Negroes</rs>. They count there are between <lb/>3 and 4000 Natural <rs>Spaniards</rs> bear<lb/>ing Arms, who have the Reputation of <lb/>being very stout Men and good Souldi<lb/>ers, The number of the <rs>Mestices</rs> is not <lb/>much less, nor are they less expert at a <lb/>Weapon, but the greatest part of 'em, <lb/>are Idle, apt to quarrel and Treache<lb/>rous, therefore they commonly wear <lb/>Three or Four Buff-wast-coats one upon <lb/>another, which are proof against the <lb/>point of a Sword, to secure themselves <lb/>from private stabs. The <rs>Strangers</rs> there <lb/>are but few, there are some <rs>Dutch</rs>, <rs>Irist</rs>, <lb/>and <rs>Genoese</rs>; and some <rs>French</rs>, most of <lb/>whom are of <name type="place">St. Malo</name>, <name type="place">Provence</name> or <name type="place">Bay<lb/>onne</name>, and pass for People of <name type="place">Navarre</name> <lb/>and <name type="place">Biscaye</name>. As for the <rs>Indians</rs> they are <lb/><choice><orig>reckon'd</orig><reg>reckoned</reg></choice> to amount to near 10000 be<lb/>sides the <rs>Moulatos</rs> and the <rs>Blacks</rs>: but <lb/>they are not permitted to wear either <lb/>Swords or Fire-Arms, no not their <name type="personRoleName">Cou<lb/>racas</name> and <name type="personRoleName">Caciques</name>, <choice><orig>tho'</orig> <reg>though</reg></choice> they may all <lb/>aspire to any degree of Knight-hood, <lb/>and to Benefices, to which they are of<lb/>ten <choice><orig>rais'd</orig> <reg>raised</reg></choice>, for their laudable Actions, <lb/>and good Services. They are also for<lb/>bidden to wear the Spanish habit, but </p>
+                
+         <fw type="catch">are</fw> 
+
+
+         <pb n="45"/>
+         <fw type="head"> up the R. de la Plata 45</fw>
+             <p xml:id="bottomline"> 
+                <lb/>are <choice><orig>oblig'd</orig> <reg>obliged</reg></choice> to cloath themselves in a dif<lb/>ferent manner, in a close-coat without <lb/>sleeves, which they wear next their Shirts, <lb/>to which their Band and <choice><orig>lac'd</orig> <reg>laced</reg></choice> Cuffs are <lb/><choice><orig>fasten'd</orig> <reg>fastened</reg></choice>, their Breeches are wide at bot<lb/>tom after the French fashion; their Legs <lb/>and Feet naked. The <rs>Blacks</rs> and <rs>Mou<lb/>latos</rs> being in the Service of the <rs>Spa<lb/>niards</rs>, are habited after the Spanish <lb/>Mode, and may bear Arms, and all the <rs><lb/>Indian Slaves</rs> after Ten Years service are <lb/>set at liberty, and have the same privi<lb/>leges with the others. The Government <lb/>of this City is very exact, by the Care <lb/>which is taken by Twenty four Magi<lb/>strates, who are constantly observing, <lb/>that good orders be kept in it; besides <lb/>the <name type="personalRoleName">Corregidor</name> and <name type="personalRoleName">President</name> of <name type="place">Los Char<lb/>cas</name>, who directs Officers after the man<lb/>ner of <name type="country">Spain</name>. It is to be <choice><orig>observ'd</orig> <reg>observed</reg></choice>, that <lb/>excepting these two Principal Officers, <lb/>as well at <name type="place">Potosi</name> as every where else in <lb/>the <rs>Indies</rs>, all the People, whether <lb/>Knights, Gentlemen, Officers or others, <lb/>are <choice><orig>concern'd</orig> <reg>concerned</reg></choice> in Commerce; of which <lb/>some of them make so great an advan<lb/>tage, that in the City of <name type="place">Potosi</name>, there <lb/>are some <choice><orig>reckon'd</orig> <reg>reckoned</reg></choice> to be worth. Two, <lb/>some Three, and some Four Millions of <lb/>Crowns; and a great many worth Two,  </p>
+                
+         <fw type="catch">Three,</fw>
+
+
+         <pb n="46"/>
+         <fw type="head">46 A Voyage to Peru</fw>
+             <p xml:id="bottomline"> 
+                <lb/>Three or Four hundred thousand <lb/>Crowns. The common People to live <lb/>much at their ease, but are all proud and fine, either <lb/>haughty, and always go very <lb/>in Cloth of Gold and Silver, or in Scar<lb/>let, or Silk trimmed with a great deal <lb/>of Gold and Silver-Lace. The Furni<lb/>ture of their Houses is very Rich, for <lb/>they are generally <choice><orig>serv'd</orig> <reg>served</reg></choice> in Plate. The <rs><lb/>Wives</rs> both of Gentlemen and Citi<lb/>zens, are kept very close, to a degree <lb/>beyond what they are in <name type="country">Spain</name>; they ne<lb/>ver go abroad, unless it be to go to <lb/>Mass, or to make some Visit, or to some <lb/><choice><sic>publick</sic> <corr>public</corr></choice> Feast; and that but rarely. The <lb/>Women here are generally addicted to <lb/>excess in taking <foreign>Coca</foreign>: This is a Plant <lb/>that comes from the side of <name type="place">Cusco</name> which <lb/>when it is made up in Rowls and <choice><orig>dry'd</orig> <reg>dried</reg></choice> <lb/>they chew, as some do Tobacco; they <lb/>are so heated, and sometimes absolutely <lb/>fuddled by it, that they have no com<lb/>mand of themselves at all: <choice><orig>'Tis</orig> <reg>This</reg></choice> likewise <lb/>often <choice><orig>us'd</orig> <reg>used</reg></choice> by the Men, and has the same <lb/>effects upon them. They are otherwise <lb/>very Temperate in eating and drinking, <lb/><choice><orig>tho'</orig> <reg>though</reg></choice> they have before dwelt in places <lb/>well <choice><orig>stor'd</orig> <reg>stored</reg></choice> with all sort of Provisions, <lb/>as Beef, Mutton, Fowls, Venizon, raw <lb/>and <choice><orig>preserv'd</orig> <reg>preserved</reg></choice> Fruits, Corn and Wine,</p> 
+                
+         <fw type="catch">which</fw> 
+
+
+         <pb n="47"/> 
+         <fw type="head"> up the R. de la Plata 47</fw>
+             <p> 
+                <lb/>which are brought hither from other <lb/>parts, and some from a great distance, <lb/>which makes these Commodities dear, so <lb/>that the meaner sort of People; especially <lb/>those that have very little before-hand, <lb/>would find it hard enough to live there, <lb/>if Money were not very plenty, and <lb/>easie to be got by them that are willing <lb/>to work.</p>
+
+             <p xml:id="bottom">
+                <lb/>The best and finest Silver in all the <name type="country">In<lb/>dies</name>, is that of the Mines of <name type="place">Potosi</name>, the prin<lb/>cipal of which are found in the Mountain <lb/>of <name type="placeGeog">Aranzasse</name>, where besides the prodigious <lb/>quantities of Silver that have been taken <lb/>out of Veins, in which the Mettal evi<lb/>dently <choice><orig>appear'd</orig> <reg>appeared</reg></choice>, and which are now <lb/>exhausted, there is almost as great quan<lb/>tities of it found in places where they <lb/>had not <choice><orig>digg'd</orig> <reg>dug</reg></choice> before; nay from some <lb/>of the Earth which they threw aside for<lb/>merly when they <choice><orig>open'd</orig> <reg>opened</reg></choice> the Mines and <lb/>made Pits, and Cross-ways in the Moun<lb/>tains, they have taken Silver, and have <lb/>found by this, that the Silver has been <lb/><choice><orig>form'd</orig> <reg>formed</reg></choice> since that time, which shews how <lb/>proper the Quality of this Ground is <lb/>for the production of that Metal: But <lb/>indeed this Earth does not vield so much <lb/>as the Mines that are found by Veins a<lb/>mong the Rocks.</p> 
+
+</div>
+      </body>
+  </text>
+</TEI>
