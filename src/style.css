@@ -1,16 +1,38 @@
 /* Add your styles here! */
 h1 {
     font-family: 'Times New Roman', Times, serif;
-    font-size: larger;
+    font-size: 35px;
     text-align: center;
+    color:black;
  }
 
+ h2 {font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: left;
+    color: black;
+    font-style: italic;
+}
+
  p { 
-    color: dimgray;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     text-align: left;
  }
+
+ ul {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    list-style-position: outside;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20cm;
+  }
+
 
  /* In this lines I am defining 3 class of <div> element */
       /* The first 'multiling' is the container for the two columns */
@@ -25,10 +47,11 @@ h1 {
      .left {
          float: left;
          width: 45%;
-         ;
+         color:rgb(25, 95, 25);
      }
      /* And the third to the right */
      .right {
          float: right;
          width: 45%;
+         color:dimgray;
      }
