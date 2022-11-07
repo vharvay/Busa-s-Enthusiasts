@@ -5,8 +5,11 @@
  <teiHeader>
      <fileDesc>
         <titleStmt>
-           <title></title>
+           <title>Viaje de Monsieur Acarete Du Biscay desde Buenos Aires a Perú</title>
+           <author>Mons. Acarete du Biscay</author>
+           <editor>Busa's Enthusiasts</editor>
         </titleStmt>
+        
         <publicationStmt>
            <p/>
         </publicationStmt>
@@ -23,45 +26,46 @@
          <pb n="22"/>
       <fw type="head">22 LA REVISTA DE BUENOS AIRES</fw>
           <p>
-          Salí de Buenos Aires y tomé el camino de Córdoba, dejando á Santa Fe á mí 
-derecha, de cuyo lugar, hé aquí una relación:
-               Es una población española dependiente de Buenos Aires
-siendo el comandante un mero teniente, quien nada hace sin
-orden del Gobernador de Buenos Aires. Es una pequeña población, compuesta 
-de 25 casas, sin murallas, fortificaciones, ni guarnición, distante de 
-Buenos Aires 80 leguas al Norte. Situada sobre el Rio de la Plata, buques 
-grandes podrían llegar hasta allí, si no fuese por un gran banco que 
-obstruye el paso, un poco mas arriba de Buenos Aires. Sin em<lb/>
+          Salí de Buenos Aires y tomé el camino de Córdoba, de<lb/>
+          jando á Santa Fe á mí derecha, de cuyo lugar, hé aquí una<lb/>relacion:
+</p>
+<p>
+               Es una poblacion española dependiente de Buenos Aires<lb/> siendo el comandante un mero teniente, quien nada hace sin<lb/> órden del Gobernador de Buenos Aires. Es una pequeña<lb/> poblacion, compuesta de 25 casas, sin murallas, fortifica<lb/>ciones, ni guarnicion, distante de 
+Buenos Aires 80 leguas al<lb/> Norte. Situada sobre el Rio de la Plata, buques 
+grandes po<lb/>drían llegar hasta allí, si no fuese por un gran banco que 
+obs<lb/>truye el paso, un poco mas arriba de Buenos Aires. Sin em<lb/>
  <pb n="23"/>
          <fw type="head">23 UN LIBRO CURIOSO Y RARO</fw><lb/>bargo, es un 
-punto muy ventajoso, porque es el único paso que hay al Paraguay desde el 
-Perú, Chile y Tucuman, y en cierto modo es el depósito de los efectos que 
-de allí se estraen especialmente de la yerba, de la cual ya he hablado,
+punto muy ventajoso, porque es el único paso<lb/> que hay al Paraguay desde el 
+Perú, Chile y Tucuman, y en<lb/> cierto modo es el depósito de los efectos que 
+de allí se es<lb/>traen especialmente de la yerba, de la cual ya he hablado,
 sin la cual no pueden estar en aquellas Provincias.
-El suelo, aqui como en Buenos Aires, es bueno y fértil,
-y el pueblo, no difiriendo en nada remarcable de lo que ya
-hemos observado en Buenos Aires, le dejo y prosigo mi viaje. Cuéntanse 140 
-leguas desde Buenos Aires hasta Córdoba, y por razón de ser algunas partes 
-del camino en largos trechos despoblado, me proveí á mi salida de aquello 
-que me dijeron precisarla. Partí, pues, llevando por guia un salvaje, con 
-tres caballos y tres muías, algunas para llevar mi equipaje y el resto 
-para mudar en el camino cuando el montado se me cansase.
-Desde Buenos Aires hasta el Rio deLucan (1) y aun hasta el Rio Recife (2) 
-á 30 leguas del pueblo, pasé varias habitaciones y chacras cultivadas por 
-los españoles, pero mas allá del Recife hast i el Rio Saladillo, no vi 
-ninguna. Observaré de paso, que tanto estos rios como los demás de las 
-provincias de Buenos Aires, Paraguay y Tucuman, que desaguan en el Rio de 
-la Plata, son vadeables á caballo, pero cuando las lluvias ó cualesquier 
-accidente los hace crecer, el viajero se vé obligado á atravesarlos 
-nadando, sino ó colocarse sobre un bulto en forma de balsa que un salvaje 
-pasa tirando al lado opuesto. No sabia yo nadar, y por lo mismo tuve dos ó 
-tres veces que acudir á este espediente cuando no encontraba paso. El modo 
-de verificarlo era este: mi indio mataba un toro, desollábalo, y 
-rellenando
-
-1. Lujan.
-2. Arrecifes.
-
+</p>
+<p>
+El suelo, aqui como en Buenos Aires, es bueno y fértil,<lb/>
+y el pueblo, no difiriendo en nada remarcable de lo que ya<lb/>
+hemos observado en Buenos Aires, le dejo y prosigo mi<lb/> viaje. Cuéntanse 140 
+leguas desde Buenos Aires hasta Cór<lb/>doba, y por razón de ser algunas partes 
+del camino en lar<lb/>gos trechos despoblado, me proveí á mi salida de aquello 
+que me dijeron precisaria. Partí, pues, llevando por guia<lb/> un salvaje, con 
+tres caballos y tres mulas, algunas para lle<lb/>var mi equipaje y el resto 
+para mudar en el camino cuando<lb/> el montado se me cansase.
+</p>
+<p>
+Desde Buenos Aires hasta el Rio de Lucan <ref target="#p23_n1">(1)</ref> y aun hasta<lb/> el Rio Recife <ref target="#p23_n2">(2)</ref>
+á 30 leguas del pueblo, pasé varias habi<lb/>taciones y chacras cultivadas por 
+los españoles, pero mas<lb/> allá del Recife hasta el Rio Saladillo, no ví 
+ninguna. Obser<lb/>varé de paso, que tanto estos rios como los demás de las<lb/> 
+provincias de Buenos Aires, Paraguay y Tucuman, que de<lb/>saguan en el Rio de 
+la Plata, son vadeables á caballo, pero<lb/> cuando las lluvias ó cualesquier 
+accidente los hace crecer,<lb/> el viajero se vé obligado á atravesarlos 
+nadando, sino ó<lb/> colocarse sobre un bulto en forma de balsa que un salva<lb/>je 
+pasa tirando al lado opuesto. No sabia yo nadar, y por<lb/> lo mismo tuve dos ó 
+tres veces que acudir á este espedie<lb/>te cuando no encontraba paso. El modo 
+de verificarlo era<lb/> este: mi indio mataba un toro, desollábalo, y 
+rellenando<lb/>
+<pb n="24"/>
+      <fw type="head">24 LA REVISTA DE BUENOS AIRES</fw>
 el cuero de paja, cerraba y aseguraba á este con correas del
 mismo cuero; colocábame yo sobre él, y el indio cruzaba el
 rio nadando, llevándome tras de sí por medio de una soga
@@ -174,6 +178,12 @@ espada y puñal, y como soldados son de muy escaso mérito, pues el aire del
 país y la abundancia de que gozan, los
 hace holgazines y cobardes.
           </p>
+
+         <p>NOTAS</p>
+         <p>
+         <note xml:id="p23_n1" place="end">1. Lujan.</note>
+         <note xml:id="p23_n2" place="end">2. Arrecifes.</note>
+         </p>
      </div>
      </body>
  </text>
