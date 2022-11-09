@@ -28,8 +28,8 @@
           <p>
 I Left <name type="place">Buenos <orig>Ayres</orig></name>, and took the Road to<lb/> <name type="place"><orig>Cordoua</orig></name>, leaving <name type="place">Santa Fe</name> on 
 my<lb/> right hand, of which place take this ac<lb/>count, <sic>'tis</sic> a Spanish Settlement 
-dependant<lb/> upon <name type="place">Buenos <orig>Ayres</orig></name>, the Commander is<lb/> no more than a <roleName>Lieutenant</roleName>, 
-and does no<lb/>thing but by order from the <roleName>Governor</roleName><lb/> of <name type="place">Buenos <orig>Ayres</orig></name>. <sic>'Tis</sic> a 
+dependant<lb/> upon <name type="place">Buenos <orig>Ayres</orig></name>, the Commander is<lb/> no more than a <name type="personRoleName">Lieutenant</name>, 
+and does no<lb/>thing but by order from the <name type="personRoleName">Governor</name><lb/> of <name type="place">Buenos <orig>Ayres</orig></name>. <sic>'Tis</sic> a 
 little place con<lb/>taining 25 Houses, without any Walls, Fortifications, or 
 Garrison, distant 80<lb/> Leagues from <name type="place">Buenos <orig>Ayres</orig></name> Northward,<lb/> Situate upon the 
 <name type="place">River de la Plata</name>, large<lb/> Vessels might come up to it, were it not<lb/> for a 
@@ -54,7 +54,7 @@ the rest to change upon the way when<lb/> that I rid upon was tired.<lb/>
 <p>
 From Buenos <orig>Ayres</orig>, to the River Lu<lb/>can, and even as far as the <name type="place">River 
 Recife</name>,<lb/> 30 Leagues, I <sic>pass’d</sic> by several Habita<lb/>tions and Farms cultivated 
-by the <name type="OrgName">Spani<lb/>ards</name>, but beyond <name type="place">Recife</name> to the <name type="place">River<lb/> Salladillo</name>, I saw none. 
+by the <name type="org">Spani<lb/>ards</name>, but beyond <name type="place">Recife</name> to the <name type="place">River<lb/> Salladillo</name>, I saw none. 
 Let it be obser<lb/>ved by the way, that these Rivers as well<lb/> as all the rest 
 in the Provinces of <name type="place">Buenos <orig>Ayres</orig></name>, <name type="place">Paraguay</name> and <name type="place">Tucuman</name>, that fall<lb/> into the 
 <name type="place">River de la Plata</name> are fordable on Horse-back; but when the Rains or<lb/> 
@@ -83,8 +83,8 @@ distinguish'd into two sorts, those that<lb/>
 <fw type="catch">volun-</fw> 
  <pb n="27"/>
          <fw type="head">up the R. de la Plata 27</fw>
-voluntarily submit to the <name type="OrgName">Spaniards</name> are<lb/> call’d <foreign><orig><name type="people">Panpistas</name></orig></foreign>, the rest <foreign><name type="people">Serranos</name></foreign>, both<lb/> cloathed with 
-Skins, but the last set up<lb/>on the <name type="people"><orig>Panpistas</orig></name> as their mortal Enemies<lb/> 
+voluntarily submit to the <name type="org">Spaniards</name> are<lb/> call’d <foreign><orig><name type="org">Panpistas</name></orig></foreign>, the rest <foreign><name type="org">Serranos</name></foreign>, both<lb/> cloathed with 
+Skins, but the last set up<lb/>on the <name type="org"><orig>Panpistas</orig></name> as their mortal Enemies<lb/> 
 wherever they meet with them. All<lb/> Fight on Horse-back, either with Lances<lb/> 
 pointed with Iron or Bones sharpen'd,<lb/> or else with Bows and Arrows, they<lb/> 
 wear Bulls-hides fashion'd like a Doublet<lb/> without sleeves, to defend their 
@@ -122,7 +122,7 @@ good Offices to them<lb/> during their Lives, nor in their Sickness<lb/> and Dea
 </p>
 <p>
 Along the <name type="place">River Salladillo</name>, I took<lb/> notice of a great many Parrats, or 
-<orig>Pa<lb/>pagays</orig>, as the <name type="OrgName">Spaniards</name> call them, and<lb/> certain Birds, call’d 
+<orig>Pa<lb/>pagays</orig>, as the <name type="org">Spaniards</name> call them, and<lb/> certain Birds, call’d 
 <foreign>Guacamayos</foreign>, whic<lb/> are of divers Colours, and twice or thrice<lb/> as big as a 
 Parrat. The River it self is<lb/> 
 <fw type="catch">full-</fw> 
@@ -135,8 +135,8 @@ full of the Fish, call'd Dorado, which is<lb/> very good to eat. There is also a
 From <name type="place">Salladillo</name> quite to <name type="place"><orig>Cordoua</orig></name>, you<lb/> go along a very fine River, that 
 abounds<lb/> with Fish, which is neither wide nor<lb/> deep, for it may be forded 
 over. On<lb/> the Bank of it you meet with little Plan<lb/>tations every Three or 
-Four Leagues ;<lb/> which are like Country Houses inhabi<lb/>ted by <name type="OrgName">Spaniards</name>, 
-<name type="OrgName">Portuguese</name>, and the <name type="people">Na<lb/>tives</name>, who have all the necessary acco<lb/>modations of 
+Four Leagues ;<lb/> which are like Country Houses inhabi<lb/>ted by <name type="org">Spaniards</name>, 
+<name type="org">Portuguese</name>, and the <name type="org">Na<lb/>tives</name>, who have all the necessary acco<lb/>modations of 
 Life they can wish, and<lb/> are very Civil and Charitable to Stran<lb/>gers; their 
 principal Wealth is in Hor<lb/>ses and Mules, in which they Trade with<lb/> the 
 Inhabitants of <name type="place">Peru</name>.<lb/>
@@ -153,8 +153,8 @@ his ordinary Residence, yet<lb/> he is wont now and then, as he sees oc<lb/>
       <fw type="head">30 A Voyage to Peru</fw>
 casion, to go and pass some time at <orig>St.<lb/> <name type="place">Jago de l’Estro</name></orig>, at <name type="place">St. Miguel de Tucuman</name>,<lb/> 
 (which is theCapitalCity of theProvince)<lb/> at <name type="place">Salta</name> and at <name type="place">Xuxui</name>. In each 
-of these<lb/> Villages there is a  <name type= "roleName">Lieutenant</name>, who has<lb/> under him an Alcalde and 
-some Officer<lb/> for the Administration of Justice. The<lb/> <name type= "roleName">Bishop</name> of <name type="place">Tucuman</name> 
+of these<lb/> Villages there is a  <name type="personRoleName">Lieutenant</name>, who has<lb/> under him an Alcalde and 
+some Officer<lb/> for the Administration of Justice. The<lb/> <name type="personRoleName">Bishop</name> of <name type="place">Tucuman</name> 
 likewise usually re<lb/>sides at <orig><name type="place">Cordoua</name></orig>, where the Cathedral<lb/> is the only 
 Parish Church of the whole<lb/> Town ; but there are divers Convents of<lb/> Monks, 
 namely of <name type="ReligOrder">Dominican</name>, Recol<lb/>lects, and those of the <orig>Order de la Mer<lb/>cy</orig>: and 
