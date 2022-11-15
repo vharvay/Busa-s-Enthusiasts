@@ -5,16 +5,23 @@
  <teiHeader>
      <fileDesc>
         <titleStmt>
-           <title>An Account of a Voyage up the River de la Plata, and thence over land to Peru</title>
+           <title>An Account of a Voyage up the River de la Plata, and thence over land to Peru
+           With Observations on the Inhabitants, as well Indians and Spainards, the Cities, Commerce, Fertility, and Riches of that Part of America</title>
                        <author>Mons. Acarete du Biscay</author>
             <editor>Busa's Enthusiasts</editor>
 
         </titleStmt>
         <publicationStmt>
-           <p/>
+         <p><ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Released under a Creative Commons BY-NC-SA License</ref></p>
         </publicationStmt>
         <sourceDesc>
-           <p/>
+        <p>
+           <bibl>
+         <pubPlace>London</pubPlace>
+         <publisher> Printed for S. Bucklet </publisher>
+         <date> 1698 </date>  
+         </bibl>
+         </p>
         </sourceDesc>
      </fileDesc>
  </teiHeader>
