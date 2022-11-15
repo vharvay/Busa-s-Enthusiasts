@@ -56,6 +56,12 @@ h1 {
          color:dimgray;
      }
 
-     tei-fw {
+     tei-fw [type="head"]
+     {
         display:none;
+    }
+
+    tei-fw [type="catch"]
+    { 
+        color:rgb(25, 95, 25);
     }
