@@ -56,4 +56,6 @@ h1 {
          color:dimgray;
      }
 
-     
+     tei-fw {
+        display:none;
+    }
