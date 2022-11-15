@@ -56,6 +56,8 @@ h1 {
          color:dimgray;
      }
 
+     tei-div {display: block;}
+     
      tei-fw [type="head"]
      {
         display:none;
