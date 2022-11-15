@@ -5,16 +5,23 @@
  <teiHeader>
      <fileDesc>
         <titleStmt>
-           <title>Viaje de Monsieur Acarete Du Biscay desde Buenos Aires a Perú</title>
+           <title>Relación de un viaje al Río de la Plata y de allí por tierra al Perú
+            Con observaciones sóbre los habitantes sean Indios o Españoles, las Ciudades Comercio, la fertilidad y las riquezas de esta parte de América.</title>
            <author>Mons. Acarete du Biscay</author>
            <editor>Busa's Enthusiasts</editor>
         </titleStmt>
-        
         <publicationStmt>
-           <p/>
+           <p><ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Released under a Creative Commons BY-NC-SA License</ref></p>
         </publicationStmt>
+        
         <sourceDesc>
-           <p/>
+          <p>
+            <bibl>
+            <pubPlace>Buenos Aires</pubPlace>
+            <publisher> La Revista de Buenos Aires</publisher>
+            <date>1867</date>
+            </bibl>
+            </p>
         </sourceDesc>
      </fileDesc>
  </teiHeader>
