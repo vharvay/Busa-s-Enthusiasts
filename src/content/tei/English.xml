@@ -25,7 +25,7 @@
         </sourceDesc>
      </fileDesc>
  </teiHeader>
- <text>
+ <text xml:lang="eng">
    <body>
    <pb/>
    <head>Monsieur Acarete du Biscay's Journey from Buenos Ayres to Peru.</head>
@@ -59,20 +59,20 @@ Guide, with Three Horses and Three<lb/> Mules, some to carry my Baggage, and<lb/
 the rest to change upon the way when<lb/> that I rid upon was tired.<lb/>
 </p>
 <p>
-From <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>, to the River Lu<lb/>can, and even as far as the <name type="place">River 
+From Buenos <orig>Ayres</orig>, to the River Lu<lb/>can, and even as far as the <name type="place">River 
 Recife</name>,<lb/> 30 Leagues, I <sic>pass’d</sic> by several Habita<lb/>tions and Farms cultivated 
-by the <name type="org">Spani<lb/>ards</name>, but beyond <name type="place">Recife</name> to the <name type="place">River<lb/> Salladillo</name>, I saw none. 
+by the <name type="org">Spani<lb/>ards</name>, but beyond <name type="place" ref="https://www.getty.edu/vow/TGNFullDisplay?find=&amp;place=&amp;nation=&amp;english=Y&amp;subjectid=1019176">Recife</name> to the <name type="place" ref="https://www.getty.edu/vow/TGNFullDisplay?find=&amp;place=&amp;nation=&amp;english=Y&amp;subjectid=1019962">River<lb/> Salladillo</name>, I saw none. 
 Let it be obser<lb/>ved by the way, that these Rivers as well<lb/> as all the rest 
-in the Provinces of <name type="place">Buenos <orig>Ayres</orig></name>, <name type="place">Paraguay</name> and <name type="place">Tucuman</name>, that fall<lb/> into the 
+in the Provinces of <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>, <name type="place" ref="https://www.getty.edu/vow/TGNFullDisplay?find=&amp;place=&amp;nation=&amp;english=Y&amp;subjectid=1000055">Paraguay</name> and <name type="place" ref="https://www.getty.edu/vow/TGNFullDisplay?find=&amp;place=&amp;nation=&amp;english=Y&amp;subjectid=1001579">Tucuman</name>, that fall<lb/> into the 
 <name type="place">River de la Plata</name> are fordable on Horse-back; but when the Rains or<lb/> 
 <fw type="catch">any</fw> 
      <pb n="26"/>
       <fw type="head">26 A Voyage to Peru</fw>
 any other accident swells them, a Tra<lb/>veller must either swim over, or else get<lb/> 
-upon a bundle in the nature of a raft,<lb/> which a Savage hawls over to the 
+upon a bundle in the nature of a raft,<lb/> which a <rs type="otherness">Savage</rs> hawls over to the 
 other<lb/> side. I could not Swim, and so was<lb/> <sic>forc'd</sic> to make use of this 
 expedient<lb/> twice or thrice when I could not find a<lb/> Ford. The way was this, 
-my Indian<lb/> <sic>kill'd</sic> a Wild Bull, flead the Hide off,<lb/> stuffed it with straw, 
+my <rs type="caste">Indian<lb/></rs> <sic>kill'd</sic> a Wild Bull, flead the Hide off,<lb/> stuffed it with straw, 
 and <sic>ty'd</sic> it up in<lb/> a great bundle with thongs of the same<lb/> Hide, upon which 
 I <sic>plac'd</sic> my self with<lb/> my Baggage ; he swam over hawling me<lb/> after him by a 
 Cord <sic>ty'd</sic> to the bundle,<lb/> and then he <sic>repass'd</sic> and swam my Horses<lb/> and Mules 
@@ -90,8 +90,8 @@ distinguish'd into two sorts, those that<lb/>
 <fw type="catch">volun-</fw> 
  <pb n="27"/>
          <fw type="head">up the R. de la Plata 27</fw>
-voluntarily submit to the <name type="org">Spaniards</name> are<lb/> call’d <foreign><orig><name type="org">Panpistas</name></orig></foreign>, the rest <foreign><name type="org">Serranos</name></foreign>, both<lb/> cloathed with 
-Skins, but the last set up<lb/>on the <name type="org"><orig>Panpistas</orig></name> as their mortal Enemies<lb/> 
+voluntarily submit to the <rs type="caste">Spaniards</rs> are<lb/> call’d <foreign><orig><rs type="otherness">Panpistas</rs></orig></foreign>, the rest <foreign><rs type="caste">Serranos</rs></foreign>, both<lb/> cloathed with 
+Skins, but the last set up<lb/>on the <rs type="otherness"><orig>Panpistas</orig></rs> as their mortal Enemies<lb/> 
 wherever they meet with them. All<lb/> Fight on Horse-back, either with Lances<lb/> 
 pointed with Iron or Bones sharpen'd,<lb/> or else with Bows and Arrows, they<lb/> 
 wear Bulls-hides fashion'd like a Doublet<lb/> without sleeves, to defend their 
@@ -114,7 +114,7 @@ told that they look'd upon the Sun and<lb/>
       <fw type="head">28 A Voyage to Peru</fw>
 Moon as Deities and as I travell'd along,<lb/> I saw a Savage upon his knees with his<lb/> Face to the Sun, who cry'd 
 out and<lb/> made strange gestures with his Hands<lb/> and Arms. I learn'd from the 
-Savage that<lb/> accompany'd me, that he was one of<lb/> those they call'd <foreign>Papas</foreign>, 
+Savage that<lb/> accompany'd me, that he was one of<lb/> those they call'd <rs type="ReligOrder">Papas</rs>, 
 who in the<lb/> Morning kneel towards the Sun, and at<lb/> Night towards the Moon, 
 to supplicate<lb/> those fancy'd Divinities to be propitious<lb/> to them, to give 
 them fair Weather, and<lb/> Victory over their Foes.<lb/>
@@ -142,8 +142,8 @@ full of the Fish, call'd Dorado, which is<lb/> very good to eat. There is also a
 From <name type="place" ref= "https://whgazetteer.org/places/13099083/portal">Salladillo</name> quite to <name type="place"><orig>Cordoua</orig></name>, you<lb/> go along a very fine River, that 
 abounds<lb/> with Fish, which is neither wide nor<lb/> deep, for it may be forded 
 over. On<lb/> the Bank of it you meet with little Plan<lb/>tations every Three or 
-Four Leagues ;<lb/> which are like Country Houses inhabi<lb/>ted by <name type="org">Spaniards</name>, 
-<name type="org">Portuguese</name>, and the <rs type="people">Na<lb/>tives</rs>, who have all the necessary acco<lb/>modations of 
+Four Leagues ;<lb/> which are like Country Houses inhabi<lb/>ted by <rs type="caste">Spaniards</rs>, 
+<rs type="caste">Portuguese</rs>, and the <rs type="people">Na<lb/>tives</rs>, who have all the necessary acco<lb/>modations of 
 Life they can wish, and<lb/> are very Civil and Charitable to Stran<lb/>gers; their 
 principal Wealth is in Hor<lb/>ses and Mules, in which they Trade with<lb/> the 
 Inhabitants of <name type="place">Peru</name>.<lb/>

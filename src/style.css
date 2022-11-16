@@ -58,13 +58,11 @@ h1 {
 
      tei-div {display: block;}
 
-     tei-fw [type="head"]
-     {
+     tei-fw[type="head"]{
         display:none;
     }
 
-    tei-fw [type="catch"]
-    { 
+    tei-fw[type="catch"]{ 
         color:rgb(25, 95, 25);
     }
 
@@ -85,3 +83,7 @@ h1 {
     tei-div {
         text-align: justify;
     }
+
+   tei-text[lang="eng"] tei-name[type="place"] {
+    font-style:italic
+   }
