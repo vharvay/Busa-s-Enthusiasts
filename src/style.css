@@ -87,3 +87,10 @@ h1 {
    tei-text[lang="eng"] tei-name[type="place"] {
     font-style:italic
    }
+
+   tei-lb {
+    display:none;
+   }
+
+   tei-pb {page-break-before:always;
+}
