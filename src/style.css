@@ -92,5 +92,8 @@ h1 {
     display:none;
    }
 
-   tei-pb {page-break-before:always;
+   tei-pb {
+    display:block;
+    width: 100%;
+    border: 3px solid green;
 }
