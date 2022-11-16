@@ -1,7 +1,7 @@
 import { red } from "@mui/material/colors"
 import { createTheme } from "@mui/material/styles"
 
-const mainColor = "#dc3522"
+const mainColor = "#22dc8a"
 const secondaryColor = "#fbebda"
 
 const theme = createTheme({
