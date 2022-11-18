@@ -97,3 +97,7 @@ h1 {
     width: 100%;
     border: 2px solid green;
 }
+
+tei-text[lang="esp"] tei-sic {
+    color: green;
+}
