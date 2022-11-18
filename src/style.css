@@ -101,3 +101,7 @@ h1 {
 tei-text[lang="esp"] tei-sic {
     color: green;
 }
+
+tei-text[lang="eng"] tei-sic {
+    color: green;
+}
