@@ -28,78 +28,78 @@
  <text xml:lang="esp">
    <body>
    <pb/>
-    <head>Viaje de Monsieur Acarete du Biscay desde Buenos Aires hasta el Perú</head>
+    <head>Viaje de <name type="person">Monsieur Acarete du Biscay</name> desde <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name> hasta el <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Perú</name></head>
      <div>
          <pb n="22"/>
-      <fw type="head">22 LA REVISTA DE BUENOS AIRES</fw>
+      <fw type="head">22 LA REVISTA DE <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">BUENOS AIRES</name></fw>
           <p>
-          Salí de Buenos Aires y tomé el camino de Córdoba, de<lb/>jando <sic>á</sic> Santa Fe <sic>á</sic> mi derecha, de cuyo lugar, <sic>hé</sic> aquí una<lb/> <sic>relacion</sic>:
+          Salí de <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name> y tomé el camino de <name type="place" ref="https://whgazetteer.org/places/12345874/portal">Córdoba</name>, de<lb/>jando <sic>á</sic> <name type="place" ref= "https://whgazetteer.org/places/13634082/portal">Santa Fe</name> <sic>á</sic> mi derecha, de cuyo lugar, <sic>hé</sic> aquí una<lb/> <sic>relacion</sic>:
 </p>
 <p>
-               Es una <sic>poblacion</sic> española dependiente de Buenos Aires<lb/> siendo el comandante un mero teniente, quien nada hace sin<lb/> <sic>órden</sic> del Gobernador de Buenos Aires. Es una pequeña<lb/> <sic>poblacion</sic>, compuesta de 25 casas, sin murallas, fortifica<lb/>ciones, ni <sic>guarnicion</sic>, distante de 
-Buenos Aires 80 leguas al<lb/> Norte. Situada sobre el <sic>Rio de la Plata</sic>, buques 
+               Es una <sic>poblacion</sic> <rs type="caste">española</rs> dependiente de <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name><lb/> siendo el <name type="personRoleName">comandante</name> un mero <name type="personRoleName">teniente</name>, quien nada hace sin<lb/> <sic>órden</sic> del <name type="personRoleName">Gobernador</name> de <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name>. Es una pequeña<lb/> <sic>poblacion</sic>, compuesta de 25 casas, sin murallas, fortifica<lb/>ciones, ni <sic>guarnicion</sic>, distante de 
+<name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name> 80 leguas al<lb/> Norte. Situada sobre el <name type="place"><sic>Rio de la Plata</sic></name>, buques 
 grandes po<lb/>drían llegar hasta allí, si no fuese por un gran banco que 
-obs<lb/>truye el paso, un poco <sic>mas</sic> arriba de Buenos Aires. Sin em<lb/>
+obs<lb/>truye el paso, un poco <sic>mas</sic> arriba de <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name>. Sin em<lb/>
  <pb n="23"/>
          <fw type="head">23 UN LIBRO CURIOSO Y RARO</fw><lb/>bargo, es un 
-punto muy ventajoso, porque es el único paso<lb/> que hay al Paraguay desde el 
-Perú, Chile y <sic>Tucuman</sic>, y en<lb/> cierto modo es el depósito de los efectos que 
+punto muy ventajoso, porque es el único paso<lb/> que hay al <name type="place" ref="https://whgazetteer.org/places/14153123/portal">Paraguay</name> desde el 
+<name type="place" ref="https://whgazetteer.org/places/12346608/portal">Perú</name>, <name type="place" ref="https://whgazetteer.org/places/12346737/portal">Chile</name> y <name type="place" ref="https://whgazetteer.org/places/13022580/portal"><sic>Tucuman</sic></name>, y en<lb/> cierto modo es el depósito de los efectos que 
 de allí se <sic>es<lb/>traen</sic> especialmente de la yerba, de la cual ya he hablado,
 sin la cual no pueden estar en aquellas Provincias.
 </p>
 <p>
-El suelo, <sic>aqui</sic> como en Buenos Aires, es bueno y fértil,<lb/>
+El suelo, <sic>aqui</sic> como en <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name>, es bueno y fértil,<lb/>
 y el pueblo, no difiriendo en nada remarcable de lo que ya<lb/>
-hemos observado en Buenos Aires, le dejo y prosigo mi<lb/> viaje. Cuéntanse 140 
-leguas desde Buenos Aires hasta Cór<lb/>doba, y por razón de ser algunas partes 
+hemos observado en <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name>, le dejo y prosigo mi<lb/> viaje. Cuéntanse 140 
+leguas desde <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name> hasta <name type="place" ref="https://whgazetteer.org/places/12345874/portal">Cór<lb/>doba</name>, y por razón de ser algunas partes 
 del camino en lar<lb/>gos trechos despoblado, me proveí <sic>á</sic> mi salida de aquello 
-que me dijeron <sic>precisaria</sic>. Partí, pues, llevando por <sic>guia</sic><lb/> un salvaje, con 
+que me dijeron <sic>precisaria</sic>. Partí, pues, llevando por <sic>guia</sic><lb/> un <rs type="otherness">salvaje</rs>, con 
 tres caballos y tres mulas, algunas para lle<lb/>var mi equipaje y el resto 
 para mudar en el camino cuando<lb/> el montado se me cansase.<lb/>
 </p>
 <p>
-Desde Buenos Aires hasta el <sic>Rio</sic> de Lucan <ref target="#p23_n1">(1)</ref> y aun hasta<lb/> el <sic>Rio</sic> Recife <ref target="#p23_n2">(2)</ref>
+Desde <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name> hasta el <name type="placeGeog" ref="https://whgazetteer.org/places/13183383/portal"><sic>Rio</sic> de Lucan</name> <ref target="#p23_n1">(1)</ref> y aun hasta<lb/> el <name type="placeGeog" ref="https://whgazetteer.org/places/13204561/portal"><sic>Rio</sic> Recife</name> <ref target="#p23_n2">(2)</ref>
 <sic>á</sic> 30 leguas del pueblo, pasé varias habi<lb/>taciones y chacras cultivadas por 
-los españoles, pero <sic>mas</sic><lb/> allá del Recife hasta el <sic>Rio</sic> Saladillo, no <sic>ví</sic>
+los <rs type="caste">españoles</rs>, pero <sic>mas</sic><lb/> allá del <name type="placeGeog" ref="https://whgazetteer.org/places/14162024/portal">Recife</name> hasta el <name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal"><sic>Rio</sic> Saladillo</name>, no <sic>ví</sic>
 ninguna. Obser<lb/>varé de paso, que tanto estos <sic>rios</sic> como los demás de las<lb/> 
-provincias de Buenos Aires, Paraguay y <sic>Tucuman</sic>, que de<lb/>saguan en el <sic>Rio</sic> de 
-la Plata, son vadeables <sic>á</sic> caballo, pero<lb/> cuando las lluvias <sic>ó</sic> <sic>cualesquier</sic> 
+provincias de <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name>, <name type="place" ref="https://whgazetteer.org/places/14153123/portal">Paraguay</name> y <name type="place" ref="https://whgazetteer.org/places/13022580/portal"><sic>Tucuman</sic></name>, que de<lb/>saguan en el <name type="placeGeog"><sic>Rio</sic> de 
+la Plata</name>, son vadeables <sic>á</sic> caballo, pero<lb/> cuando las lluvias <sic>ó</sic> <sic>cualesquier</sic> 
 accidente los hace crecer,<lb/> el viajero se <sic>vé</sic> obligado <sic>á</sic> atravesarlos 
-nadando, sino <sic>ó</sic><lb/> colocarse sobre un bulto en forma de balsa que un salva<lb/>je 
+nadando, sino <sic>ó</sic><lb/> colocarse sobre un bulto en forma de balsa que un <rs type="otherness">salva<lb/>je</rs> 
 pasa tirando al lado opuesto. No <sic>sabia</sic> yo nadar, y por<lb/> lo mismo tuve dos <sic>ó</sic> 
 tres veces que acudir <sic>á</sic> este <sic>espedien<lb/>te</sic> cuando no encontraba paso. El modo 
-de verificarlo era<lb/> este: mi indio mataba un toro, desollábalo, y 
+de verificarlo era<lb/> este: mi <rs type="otherness">indio</rs> mataba un toro, desollábalo, y 
 rellenando<lb/>
 <pb n="24"/>
-      <fw type="head">24 LA REVISTA DE BUENOS AIRES</fw>
+      <fw type="head">24 LA REVISTA DE <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">BUENOS AIRES</name></fw>
 el cuero de paja, cerraba y aseguraba <sic>á</sic> este con correas del<lb/>
-mismo cuero; colocábame yo sobre él, y el indio cruzaba el<lb/>
+mismo cuero; colocábame yo sobre él, y el <rs type="otherness">indio</rs> cruzaba el<lb/>
 <sic>rio</sic> nadando, llevándome tras de sí por medio de una soga<lb/>
 atada al bulto; repasando el <sic>rio</sic> en seguida, <sic>hacia</sic> pasar <sic>á</sic><lb/>
 nado los caballos y mulas adonde yo estaba.<lb/>
 </p>
 <p>
-Todo el país entre el <sic>Rio</sic> Recife y Saladillo, aun cuando<lb/>
+Todo el país entre el <name type="placeGeog" ref="https://whgazetteer.org/places/13204561/portal"><sic>Rio</sic> Recife</name> y <name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal">Saladillo</name>, aun cuando<lb/>
 no está poblado, abunda en ganados y árboles frutales de<lb/>
 todas clases, menos el nogal y el castaño. Hay montes en<lb/>teros de 
 durazneros, de tres <sic>á</sic> cuatro leguas de <sic>estension</sic><lb/>
 que producen excelente fruta, que no solo comen en su esta<lb/>do natural sino 
 que tambien la cuecen, <sic>ó</sic> secan al sol, para<lb/>
-conservarla, así como hacemos nosotros en Francia con las<lb/>
-ciruelas. En Buenos Aires y sus inmediaciones, raras ve<lb/>ces se echa mano de 
+conservarla, así como hacemos nosotros en <name type="place" ref="https://whgazetteer.org/places/14142755/portal">Francia</name> con las<lb/>
+ciruelas. En <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos Aires</name> y sus inmediaciones, raras ve<lb/>ces se echa mano de 
 otro combustible para los usos comu<lb/>nes, que el de la madera de este árbol.<lb/>
 </p>
 <p>
-Los salvajes que moran en estos lugares, se dividen en<lb/>
+Los <rs type="otherness">salvajes</rs> que moran en estos lugares, se dividen en<lb/>
 dos clases; aquellos que se someten voluntariamente <sic>á</sic> los<lb/>
-españoles, llámaseles Pampistas, y los demás Serranos. Unos<lb/>
+<rs type="caste">españoles</rs>, llámaseles <rs type="otherness">Pampistas</rs>, y los demás <rs type="otherness">Serranos</rs>. Unos<lb/>
 y otros visten pieles, pero estos últimos, <sic>do</sic> quiera los en<lb/>cuentren, 
-atacan <sic>á</sic> los Pampístas como <sic>á</sic> sus enemigos mor<lb/>tales. Todos ellos pelean <sic>á</sic> 
+atacan <sic>á</sic> los <rs type="otherness">Pampistas</rs> como <sic>á</sic> sus enemigos mor<lb/>tales. Todos ellos pelean <sic>á</sic> 
 caballo, ya con lanzas enhastadas<lb/>
 con fierro <sic>ó</sic> hueso aguzado, <sic>ó</sic> bien con arcos y flechas. Usan<lb/>
 una especie de justillo de cuero de toro, para defender el<lb/>
-cuerpo. Los jefes que los comandan, tanto en la guerra como<lb/>
-en la paz, llámanles Curacas. Cuando toman alguno de sus<lb/>
+cuerpo. Los <name type="personRoleName">jefes</name> que los comandan, tanto en la guerra como<lb/>
+en la paz, llámanles <rs type="otherness">Curacas</rs>. Cuando toman alguno de sus<lb/>
 enemigos, ya sea vivo <sic>ó</sic> muerto, se <sic>reunen</sic> todos, y <sic>despues</sic><lb/>
 de reprocharle que él <sic>ó</sic> sus parientes ocasionaron la muerte<lb/>
 de sus deudos <sic>ó</sic> amigos, lo despedazan, y <sic>soazándolo</sic> un<lb/>
