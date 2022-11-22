@@ -39,7 +39,7 @@ dependant<lb/> upon <name type="place" ref= "https://www.hgis-indias.net/dokuwik
 and does no<lb/>thing but by order from the <name type="personRoleName">Governor</name><lb/> of <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>. <sic>'Tis</sic> a 
 little place con<lb/>taining 25 Houses, without any Walls, Fortifications, or Garrison, distant 80<lb/> 
 Leagues from <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name> Northward,<lb/> Situate upon the 
-<name type="placeGeog">River de la Plata</name>, large<lb/> Vessels might come up to it, were it not<lb/> for a 
+<name type="placeGeog" ref="https://whgazetteer.org/places/13169452/portal">River de la Plata</name>, large<lb/> Vessels might come up to it, were it not<lb/> for a 
 great bank that obstructs the pas<lb/>sage a little above <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>. 
 Ne<lb/>vertheless <sic>'tis</sic> a very advantageous Post,<lb/> because <sic>'tis</sic> the only passage 
 from <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Peru</name>,<lb/> <name type="place" ref="https://whgazetteer.org/places/12346737/portal">Chili</name> and <name type="place" ref="https://whgazetteer.org/places/13022580/portal">Tucuman</name> to <name type="place" ref="https://whgazetteer.org/places/14153123/portal">Paraguay</name>, and in<lb/> a manner the Magazine of 
@@ -90,7 +90,7 @@ distinguish'd into two sorts, those that<lb/>
 <fw type="catch">volun-</fw> 
  <pb n="27"/>
          <fw type="head">up the <name type="placeGeog">R. de la Plata</name> 27</fw>
-voluntarily submit to the <rs type="caste">Spaniards</rs> are<lb/> call’d <orig><rs type="otherness">Panpistas</rs></orig>, the rest <rs type="caste">Serranos</rs>, both<lb/> cloathed with 
+voluntarily submit to the <rs type="caste">Spaniards</rs> are<lb/> call’d <orig><rs type="otherness">Panpistas</rs></orig>, the rest <rs type="otherness">Serranos</rs>, both<lb/> cloathed with 
 Skins, but the last set up<lb/>on the <rs type="otherness"><orig>Panpistas</orig></rs> as their mortal Enemies<lb/> 
 wherever they meet with them. All<lb/> Fight on Horse-back, either with Lances<lb/> 
 pointed with Iron or Bones <sic>sharpen'd</sic>,<lb/> or else with Bows and Arrows, they<lb/> 
@@ -128,67 +128,67 @@ token of their af<lb/>fection to their Kindred ; indeed they<lb/> are not wantin
 good Offices to them<lb/> during their Lives, nor in their Sickness<lb/> and Death.<lb/>
 </p>
 <p>
-Along the <name type="placeGeog">River Salladillo</name>, I took<lb/> notice of a great many Parrats, or 
-<orig>Pa<lb/>pagays</orig>, as the <name type="org">Spaniards</name> call them, and<lb/> certain Birds, call’d 
+Along the <name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal">River Salladillo</name>, I took<lb/> notice of a great many Parrats, or 
+<orig>Pa<lb/>pagays</orig>, as the <rs type="caste">Spaniards</rs> call them, and<lb/> certain Birds, call’d 
 <foreign>Guacamayos</foreign>, whic<lb/> are of divers Colours, and twice or thrice<lb/> as big as a 
 Parrat. The River it self is<lb/> 
 <fw type="catch">full-</fw> 
  <pb n="29"/>
-         <fw type="head">up the <name type="place"> R. de la Plata</name> 29</fw>
+         <fw type="head">up the <name type="placeGeog" ref="https://whgazetteer.org/places/13169452/portal"> R. de la Plata</name> 29</fw>
 full of the Fish, call'd Dorado, which is<lb/> very good to eat. There is also a Crea<lb/>ture in it, whether 'tis Meat or 
 <sic>Poyson</sic><lb/> no body knows, it has Four Feet and a<lb/> long Tail like a Lizard.<lb/>
 </p>
 <p>
-From <name type="placeGeog" ref= "https://whgazetteer.org/places/13099083/portal">Salladillo</name> quite to <name type="place"><orig>Cordoua</orig></name>, you<lb/> go along a very fine River, that 
+From <name type="placeGeog" ref= "https://whgazetteer.org/places/13099083/portal">Salladillo</name> quite to <name type="place" ref="https://whgazetteer.org/places/12345874/portal"><orig>Cordoua</orig></name>, you<lb/> go along a very fine River, that 
 abounds<lb/> with Fish, which is neither wide nor<lb/> deep, for it may be forded 
 over. On<lb/> the Bank of it you meet with little Plan<lb/>tations every Three or 
 Four Leagues ;<lb/> which are like Country Houses inhabi<lb/>ted by <rs type="caste">Spaniards</rs>, 
 <rs type="caste">Portuguese</rs>, and the <rs type="people">Na<lb/>tives</rs>, who have all the necessary acco<lb/>modations of 
 Life they can wish, and<lb/> are very Civil and Charitable to Stran<lb/>gers; their 
 principal Wealth is in Hor<lb/>ses and Mules, in which they Trade with<lb/> the 
-Inhabitants of <name type="place">Peru</name>.<lb/>
+<rs type="people">Inhabitants</rs> of <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Peru</name>.<lb/>
 </p>
 <p>
-<orig><name type="place">Cordoua</name></orig> is a Town Situate in a pleasant<lb/> and fruitful Plain upon the side 
+<orig><name type="place" ref="https://whgazetteer.org/places/12345874/portal">Cordoua</name></orig> is a Town Situate in a pleasant<lb/> and fruitful Plain upon the side 
 of a<lb/> River, bigger and broader than that I<lb/> have just spoken of : 'Tis 
 compos’d of<lb/> about 400 Houses, Built like those of<lb/> <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>. It has 
 neither Ditches,<lb/> nor Walls, nor Fort for its defence; He<lb/> that Commands it 
-is Governor of all<lb/> the Provinces of <name type="place">Tucuman</name>, and tho’ it be<lb/> the place of 
+is Governor of all<lb/> the Provinces of <name type="place" ref="https://whgazetteer.org/places/13022580/portal">Tucuman</name>, and tho’ it be<lb/> the place of 
 his ordinary Residence, yet<lb/> he is wont now and then, as he sees oc<lb/>
 <fw type="catch">casion,</fw> 
      <pb n="30"/>
       <fw type="head">30 A Voyage to <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Peru</name></fw>
-casion, to go and pass some time at <orig>St.<lb/> <name type="place">Jago de l’Estro</name></orig>, at <name type="place">St. Miguel de Tucuman</name>,<lb/> 
-(which is theCapitalCity of theProvince)<lb/> at <name type="place">Salta</name> and at <name type="place">Xuxui</name>. In each 
-of these<lb/> Villages there is a  <name type="personRoleName">Lieutenant</name>, who has<lb/> under him an Alcalde and 
-some Officer<lb/> for the Administration of Justice. The<lb/> <name type="personRoleName">Bishop</name> of <name type="place">Tucuman</name> 
-likewise usually re<lb/>sides at <orig><name type="place">Cordoua</name></orig>, where the Cathedral<lb/> is the only 
+casion, to go and pass some time at <orig>St.<lb/> <name type="place" ref="https://whgazetteer.org/places/13353196/portal">Jago de l’Estro</name></orig>, at <name type="place" ref= "https://whgazetteer.org/places/12346008/portal">St. Miguel de Tucuman</name>,<lb/> 
+(which is theCapitalCity of theProvince)<lb/> at <name type="place" ref= "https://whgazetteer.org/places/14162541/portal">Salta</name> and at <name type="place" ref="https://whgazetteer.org/places/13768418/portal">Xuxui</name>. In each 
+of these<lb/> Villages there is a  <name type="personRoleName">Lieutenant</name>, who has<lb/> under him an <name type="personRoleName">Alcalde</name> and 
+some Officer<lb/> for the Administration of Justice. The<lb/> <name type="personRoleName">Bishop</name> of <name type="place" ref="https://whgazetteer.org/places/13022580/portal">Tucuman</name> 
+likewise usually re<lb/>sides at <orig><name type="place" ref="https://whgazetteer.org/places/12345874/portal">Cordoua</name></orig>, where the Cathedral<lb/> is the only 
 Parish Church of the whole<lb/> Town ; but there are divers Convents of<lb/> Monks, 
-namely of <rs type="ReligOrder">Dominican</rs>, Recol<lb/>lects, and those of the <orig>Order de la Mer<lb/>cy</orig>: and 
+namely of <rs type="ReligOrder">Dominican</rs>, Recol<lb/>lects, and those of the <orig><rs type="ReligOrder">Order de la Mer<lb/>cy</rs></orig>: and 
 one of Nunns. The <rs type="ReligOrder">Jesuits</rs><lb/> have a College there, and their Chappel<lb/> is the 
 finest and richest of all.<lb/>
 </p>
 <p>
-The Inhabitants are Rich in Gold and<lb/> Silver, which they get by the Trade<lb/> 
-they have for Mules, with which they<lb/> furnish <name type="place">Peru</name> and other Parts; which 
+The <rs type="people">Inhabitants</rs> are Rich in Gold and<lb/> Silver, which they get by the Trade<lb/> 
+they have for Mules, with which they<lb/> furnish <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Peru</name> and other Parts; which 
 is<lb/> so considerable, that they sell about 28<lb/> or 30000 of 'em every Year, 
 which they<lb/> breed up in their Farms. They usually<lb/> keep 'em till they are 
-about Two Years<lb/> old, then expose 'em to Sale, and have<lb/> about Six Patagons 
-a piece for 'em.<lb/> The Merchants that come to buy 'em, carry<lb/> 'em to <name type="place">St. 
-Jago</name>, to <name type="place">Salta</name> and <name type="place">Xuxui</name> ,<lb/> where they leave 'em for Three Years,<lb/> till they 
+about Two Years<lb/> old, then expose 'em to Sale, and have<lb/> about <measure type="currency">Six Patagons</measure> 
+a piece for 'em.<lb/> The Merchants that come to buy 'em, carry<lb/> 'em to <name type="place" ref="https://whgazetteer.org/places/13353196/portal">St. 
+Jago</name>, to <name type="place" ref= "https://whgazetteer.org/places/14162541/portal">Salta</name> and <name type="place" ref="https://whgazetteer.org/places/13768418/portal">Xuxui</name> ,<lb/> where they leave 'em for Three Years,<lb/> till they 
 are well grown and become<lb/> 
 <fw type="catch">strong,-</fw> 
  <pb n="31"/>
-         <fw type="head">up the <name type="placeGeog">R. de la Plata</name> 31</fw>
-strong, and afterwards bring 'em to name <name type="place">Pe<lb/>ru</name>, where 
+         <fw type="head">up the <name type="placeGeog" ref="https://whgazetteer.org/places/13169452/portal">R. de la Plata</name> 31</fw>
+strong, and afterwards bring 'em to name <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Pe<lb/>ru</name>, where 
 they presently have Vent for<lb/> 'em, because there as well as in the rest<lb/> of 
 the Western part of <name type="place">America</name>, the<lb/> greatest part of their Carriage is upon<lb/> 
-Mules. The People of <name type="place"><orig>Cordoua</orig></name> also<lb/> drive a Trade in Cows, which they have<lb/> 
-from the <sic>Countrey</sic> of <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>, and<lb/> carry to <name type="place">Peru</name>, where without this 
+Mules. The People of <name type="place" ref="https://whgazetteer.org/places/12345874/portal"><orig>Cordoua</orig></name> also<lb/> drive a Trade in Cows, which they have<lb/> 
+from the <sic>Countrey</sic> of <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>, and<lb/> carry to <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Peru</name>, where without this 
 way<lb/> of Subsistance 'tis certain they would<lb/> have much ado to live. This 
-kind of<lb/> <sic>Traffick</sic> makes this Town the most con<lb/>siderable in the <name type="place">Province of 
+kind of<lb/> <sic>Traffick</sic> makes this Town the most con<lb/>siderable in the <name type="place" ref="https://whgazetteer.org/places/13022580/portal">Province of 
 Tucuman</name>,<lb/> as well for its Riches and Commodities,<lb/> as for the Number of its 
-Inhabitants,<lb/> which are counted to be at least 5 or 600 Families, besides 
+<rs type= "people">Inhabitants</rs>,<lb/> which are counted to be at least 5 or 600 Families, besides 
 Slaves who are<lb/> three times the number. But the gene<lb/>rality of 'em of all 
 degrees have no other<lb/> Arms but a Sword and Poignard, and<lb/> are very 
 indifferent <sic>Souldiers</sic>, the Air<lb/> of the Country, and the Plenty they<lb/> enjoy, 
