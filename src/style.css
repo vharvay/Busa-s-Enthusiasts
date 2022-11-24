@@ -1,27 +1,27 @@
 /* Add your styles here! */
 h1 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
+    font-family: 'Palatino', Times, serif;
+    font-size: xx-large;
     text-align: center;
     color:black;
  }
 
- h2 {font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
+ h2 {font-family: 'Palatino', Times, serif;
+    font-size: 20px;
     text-align: left;
     color: black;
     font-style: italic;
 }
 
  p { 
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Palatino', Times, serif;
     font-size: 20px;
     text-align: left;
  }
 
  ul {
     text-align: left;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Palatino', Times, serif;
     font-size: 20px;
     list-style-position: outside;
 }
@@ -95,13 +95,17 @@ h1 {
    tei-pb {
     display:block;
     width: 100%;
-    border: 2px solid green;
+    border: 2px solid rgba (36, 135, 36, 0.807);
 }
 
 tei-text[lang="esp"] tei-sic {
-    color: green;
+    color: rgba (36, 135, 36, 0.807);
 }
 
 tei-text[lang="eng"] tei-sic {
-    color: green;
+    color: rgba(36, 135, 36, 0.807);
+}
+
+body {
+    background-color: #f9faf1;
 }
