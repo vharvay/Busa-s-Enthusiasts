@@ -109,3 +109,7 @@ tei-text[lang="eng"] tei-sic {
 body {
     background-color: #f9faf1;
 }
+
+tei-text[lang=“eng”] tei-name[type=“caste”] {
+    font-style:italic
+   }
