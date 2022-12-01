@@ -113,3 +113,7 @@ body {
 tei-text[lang="eng"] tei-rs[type="caste"] {
     font-style:italic
    }
+
+   tei-text[lang="eng"] tei-name[type="placeGeog"] {
+    font-style:italic
+   }

@@ -39,7 +39,7 @@ dependant<lb/> upon <name type="place" ref= "https://www.hgis-indias.net/dokuwik
 and does no<lb/>thing but by order from the <name type="personRoleName">Governor</name><lb/> of <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>. <sic>'Tis</sic> a 
 little place con<lb/>taining 25 Houses, without any Walls, Fortifications, or Garrison, distant 80<lb/> 
 Leagues from <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name> Northward,<lb/> Situate upon the 
-<name type="placeGeog" ref="https://whgazetteer.org/places/13169452/portal">River de la Plata</name>, large<lb/> Vessels might come up to it, were it not<lb/> for a 
+River <name type="placeGeog" ref="https://whgazetteer.org/places/13169452/portal">de la Plata</name>, large<lb/> Vessels might come up to it, were it not<lb/> for a 
 great bank that obstructs the pas<lb/>sage a little above <name type="place" ref= "https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>. 
 Ne<lb/>vertheless <sic>'tis</sic> a very advantageous Post,<lb/> because <sic>'tis</sic> the only passage 
 from <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Peru</name>,<lb/> <name type="place" ref="https://whgazetteer.org/places/12346737/portal">Chili</name> and <name type="place" ref="https://whgazetteer.org/places/13022580/portal">Tucuman</name> to <name type="place" ref="https://whgazetteer.org/places/14153123/portal">Paraguay</name>, and in<lb/> a manner the Magazine of 
@@ -59,12 +59,11 @@ Guide, with Three Horses and Three<lb/> Mules, some to carry my Baggage, and<lb/
 the rest to change upon the way when<lb/> that I rid upon was tired.<lb/>
 </p>
 <p>
-From <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>, to the <name type="placeGeog" ref="https://whgazetteer.org/places/13183383/portal">River Lu<lb/>can</name>, and even as far as the <name type="placeGeog" ref="https://whgazetteer.org/places/13204561/portal">River 
-Recife</name>,<lb/> 30 Leagues, I <sic>pass’d</sic> by several Habita<lb/>tions and Farms cultivated 
-by the <rs type="caste">Spani<lb/>ards</rs>, but beyond <name type="placeGeog" ref="https://whgazetteer.org/places/14162024/portal">Recife</name> to the <name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal">River<lb/> Salladillo</name>, I saw none. 
+From <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>, to the River <name type="placeGeog" ref="https://whgazetteer.org/places/13183383/portal">Lu<lb/>can</name>, and even as far as the River <name type="placeGeog" ref="https://whgazetteer.org/places/13204561/portal">Recife</name>,<lb/> 30 Leagues, I <sic>pass’d</sic> by several Habita<lb/>tions and Farms cultivated 
+by the <rs type="caste">Spani<lb/>ards</rs>, but beyond <name type="placeGeog" ref="https://whgazetteer.org/places/14162024/portal">Recife</name> to the River<name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal"><lb/> Salladillo</name>, I saw none. 
 Let it be obser<lb/>ved by the way, that these Rivers as well<lb/> as all the rest 
-in the Provinces of <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>, <name type="place" ref="https://whgazetteer.org/places/14153123/portal">Paraguay</name> and <name type="place" ref="https://whgazetteer.org/places/13022580/portal">Tucuman</name>, that fall<lb/> into the 
-<name type="placeGeog">River de la Plata</name> are fordable on Horse-back; but when the Rains or<lb/> 
+in the Provinces of <name type="place" ref="https://www.hgis-indias.net/dokuwiki/doku.php?id=gazetteer:9000001">Buenos <orig>Ayres</orig></name>, <name type="place" ref="https://whgazetteer.org/places/14153123/portal">Paraguay</name> and <name type="place" ref="https://whgazetteer.org/places/13022580/portal">Tucuman</name>, that fall<lb/> into the River
+<name type="placeGeog">de la Plata</name> are fordable on Horse-back; but when the Rains or<lb/> 
 <fw type="catch">any</fw> 
      <pb n="26"/>
       <fw type="head">26 A Voyage to <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Peru</name></fw>
@@ -79,7 +78,7 @@ Cord <sic>ty'd</sic> to the bundle,<lb/> and then he <sic>repass'd</sic> and swa
 over to me.<lb/>
 </p>
 <p>
-All the Country between the <name type="placeGeog" ref="https://whgazetteer.org/places/13204561/portal">River<lb/> Recife</name> and <name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal">Salladillo</name>, <sic>tho'</sic> uninhabited,<lb/> 
+All the Country between the River<name type="placeGeog" ref="https://whgazetteer.org/places/13204561/portal"><lb/> Recife</name> and <name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal">Salladillo</name>, <sic>tho'</sic> uninhabited,<lb/> 
 abounds in Cattle and all sorts of Fruit-<lb/>trees, except Walnut and Chesnut-<lb/>
 trees; there are whole Woods of Nectarine-<lb/>Trees, Three or Four Leagues in 
 compass,<lb/> that bear excellent Fruit, which they<lb/> not only eat raw, but bake 
@@ -128,7 +127,7 @@ token of their af<lb/>fection to their Kindred ; indeed they<lb/> are not wantin
 good Offices to them<lb/> during their Lives, nor in their Sickness<lb/> and Death.<lb/>
 </p>
 <p>
-Along the <name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal">River Salladillo</name>, I took<lb/> notice of a great many Parrats, or 
+Along the River<name type="placeGeog" ref="https://whgazetteer.org/places/13099083/portal"> Salladillo</name>, I took<lb/> notice of a great many Parrats, or 
 <orig>Pa<lb/>pagays</orig>, as the <rs type="caste">Spaniards</rs> call them, and<lb/> certain Birds, call’d 
 <foreign>Guacamayos</foreign>, whic<lb/> are of divers Colours, and twice or thrice<lb/> as big as a 
 Parrat. The River it self is<lb/> 
@@ -159,7 +158,7 @@ his ordinary Residence, yet<lb/> he is wont now and then, as he sees oc<lb/>
      <pb n="30"/>
       <fw type="head">30 A Voyage to <name type="place" ref="https://whgazetteer.org/places/12346608/portal">Peru</name></fw>
 casion, to go and pass some time at <orig>St.<lb/> <name type="place" ref="https://whgazetteer.org/places/13353196/portal">Jago de l’Estro</name></orig>, at <name type="place" ref= "https://whgazetteer.org/places/12346008/portal">St. Miguel de Tucuman</name>,<lb/> 
-(which is theCapitalCity of theProvince)<lb/> at <name type="place" ref= "https://whgazetteer.org/places/14162541/portal">Salta</name> and at <name type="place" ref="https://whgazetteer.org/places/13768418/portal">Xuxui</name>. In each 
+(which is the Capital City of the Province)<lb/> at <name type="place" ref= "https://whgazetteer.org/places/14162541/portal">Salta</name> and at <name type="place" ref="https://whgazetteer.org/places/13768418/portal">Xuxui</name>. In each 
 of these<lb/> Villages there is a  <name type="personRoleName">Lieutenant</name>, who has<lb/> under him an <name type="personRoleName">Alcalde</name> and 
 some Officer<lb/> for the Administration of Justice. The<lb/> <name type="personRoleName">Bishop</name> of <name type="place" ref="https://whgazetteer.org/places/13022580/portal">Tucuman</name> 
 likewise usually re<lb/>sides at <orig><name type="place" ref="https://whgazetteer.org/places/12345874/portal">Cordoua</name></orig>, where the Cathedral<lb/> is the only 
