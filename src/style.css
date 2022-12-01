@@ -117,3 +117,11 @@ tei-text[lang="eng"] tei-rs[type="caste"] {
    tei-text[lang="eng"] tei-name[type="placeGeog"] {
     font-style:italic
    }
+
+   tei-text[lang="eng"] tei-orig {
+    color: rgb(214, 214, 45);
+}
+
+tei-text[lang="esp"] tei-orig {
+    color: rgb(214, 214, 45);
+}
