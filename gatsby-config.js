@@ -3,7 +3,7 @@ const basePath = '/Busa-s-Enthusiasts'
 module.exports = {
   pathPrefix: basePath,
   siteMetadata: {
-    title: `Digital Publishing with Minimal Computing Project`,
+    title: `Busa's Enthusiasts' Digital Publishing with Minimal Computing Project`,
     description: `DPWMCP`,
     author: `Busa's Enthusiasts`
   },
